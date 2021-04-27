@@ -16,7 +16,7 @@ Criei esse arquivo em Python como fonte de pesquisa, o comando imprime na tela u
 Comando para Executar:
 python ping.py [url] [quantidade_pings]
 
-# Como usar
+# Observações
 Obs.: url sem o www, apenas o dominio. (exemplo de url: uol.com.br).
 
 
