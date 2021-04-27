@@ -18,4 +18,4 @@ except:
 def myping(host):
     response = os.system("ping -c " + quantidade + " " + host)
  
-print(myping(host))
+myping(host)
