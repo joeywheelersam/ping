@@ -6,6 +6,7 @@
 
 # Observações
 > Obs.: url sem o www, apenas o dominio. (exemplo de url: uol.com.br).  
+> 
 
 
 
