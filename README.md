@@ -1,25 +1,22 @@
-# Código de Ping em Python que Salva num Arquivo
-## Criei esse arquivo em Python como fonte de pesquisa, o comando imprime na tela um ping na qual você define o alvo e a quantidade de disparos, após o comando ser executado o mesmo é salvo num arquivo de texto chamado ping.txt
-
-
 <!--ts-->
-   * [Sobre](#Sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
+   * [Nome](#Nome)
+   * [Descrição](#Descrição)
+   * [Como usar](#Como usar)
+   * [Observações](#Observações)
 <!--te-->
 
 
+# Nome
+Código de Ping em Python que Salva num Arquivo
+
+# Descrição
+Criei esse arquivo em Python como fonte de pesquisa, o comando imprime na tela um ping na qual você define o alvo e a quantidade de disparos, após o comando ser executado o mesmo é salvo num arquivo de texto chamado ping.txt
+
+# Como usar
 Comando para Executar:
 python ping.py [url] [quantidade_pings]
 
+# Como usar
 Obs.: url sem o www, apenas o dominio. (exemplo de url: uol.com.br).
 
 
