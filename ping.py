@@ -16,6 +16,6 @@ except:
     sys.exit(1)
 
 def myping(host):
-    response = os.system("ping -c " + quantidade + " " + host)
+    response = os.system("ping -c " + quantidade + " " + host + " | tee ping.txt")
  
 myping(host)
