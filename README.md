@@ -1,16 +1,5 @@
-<!--ts-->
-   * [Nome](#Nome)
-   * [Descrição](#Descrição)
-   * [Como usar](#Como usar)
-   * [Observações](#Observações)
-<!--te-->
-
-
-# Nome
-Código de Ping em Python que Salva num Arquivo
-
-# Descrição
-Criei esse arquivo em Python como fonte de pesquisa, o comando imprime na tela um ping na qual você define o alvo e a quantidade de disparos, após o comando ser executado o mesmo é salvo num arquivo de texto chamado ping.txt
+# Código de Ping em Python que Salva num Arquivo
+## Criei esse arquivo em Python como fonte de pesquisa, o comando imprime na tela um ping na qual você define o alvo e a quantidade de disparos, após o comando ser executado o mesmo é salvo num arquivo de texto chamado ping.txt
 
 # Como usar
 Comando para Executar:
