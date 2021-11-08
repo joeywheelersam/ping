@@ -14,6 +14,5 @@
 > Command to Run: python ping.py [url] [quantity_pings]
 
 # Comments
-> Note: url without www, only the domain. (example of url: uol.com.br).
-> 
+> Note: url without www, only the domain. (example of url: uol.com.br).<br/>
 > Translated by Google Translate.
