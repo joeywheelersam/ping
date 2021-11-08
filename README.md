@@ -7,9 +7,6 @@
 # Observações
 > Obs.: url sem o www, apenas o dominio. (exemplo de url: uol.com.br).
 
-=======
-
-
 # Python Ping Code That Saves to a File
 > I created this file in Python as a search source, the command prints a ping on the screen in which you define the target and the number of shots, after the command is created it is saved in a text file called ping.txt
 
